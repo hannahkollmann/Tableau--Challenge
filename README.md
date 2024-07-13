@@ -1,10 +1,11 @@
 # Tableau-Challenge
 
 ## Dtata Soource
-Monthly CSV files (January 2024 - March 2024) were collected from Citibike Data webpage.
+Monthly CSV files (January 2024 - March 2024) were collected from Citibike Data webpage. 
 
 ## Visualizations 
-(insert link to Tableau Public page)
+https://public.tableau.com/app/profile/hannah.kollmann/viz/Tableau_Challenge_Kollmann/Story 
+
 
 ## Analysis
 
