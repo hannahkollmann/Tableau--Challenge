@@ -1,6 +1,14 @@
 # Tableau-Challenge
 
-## Dtata Soource
+## Instructions
+Congratulations on your new job! As the new lead analyst for the New York Citi Bike program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
+
+Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike DataLinks to an external site. webpage.
+
+However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers. Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
+
+
+## Data Source
 Monthly CSV files (January 2024 - March 2024) were collected from [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage. Then, a Juypter notebook was used to merge the files into one CSV file. Due how large the data is, the results were not uploaded to Github. 
 
 ## Visualizations 
